@@ -1,5 +1,6 @@
 # src/text_cleaning.py
 import re
+import pandas as pd
 
 def clean_text(text):
     """
