@@ -1,0 +1,26 @@
+# Core Data Processing
+pandas
+numpy
+matplotlib
+seaborn
+
+# NLP and Text Processing
+nltk
+langchain
+sentence-transformers
+
+# Vector Databases
+chromadb
+faiss-cpu
+
+# LLM and RAG
+transformers
+torch
+
+# UI
+gradio
+streamlit
+
+# Utilities
+python-dotenv
+tqdm
