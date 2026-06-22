@@ -9,8 +9,8 @@ env/
 ENV/
 
 # Jupyter Notebooks
-.ipynb_checkpoints/
-*.ipynb
+.ipynb_checkpoints/        # ← Keep this (ignore checkpoints)
+# *.ipynb                  # ← REMOVE or COMMENT OUT this line!
 
 # Data files
 *.csv
